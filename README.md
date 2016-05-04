@@ -28,6 +28,8 @@ Database : MySQL
 
 App type : Console
 
+Client link : https://mega.nz/#!KRlj0ALR!JaOuioqgv1-7foQM94TjfCKnoYGdKO-PEE8P1by-fig
+
 Install instructions:
 -------
 
